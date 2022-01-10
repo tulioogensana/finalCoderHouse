@@ -1,0 +1,15 @@
+1	O'Hare International Airport	ORD	Chicago	IL	
+2	Hartsfield Jackson Atlanta International Airport	ATL	Atlanta	GA	
+3	Denver International Airport	DEN	Denver	CO	
+4	Dallas Fort Wayne International Airport	DAL	Dallas & Ft. Worth	TX	
+5	Los Angeles International Airport	LAX	Los Angeles	CA	
+6	Charlotte Douglas International Airport	CLT	Charlotte	NC	
+7	McCarran International Airport	LAS	Las Vegas	NV	
+8	Phoenix Sky Harbor International Airport	PHX	Phoenix	AZ	
+9	Orlando International Airport	MCO	Orlando	FL	
+10	Seattle–Tacoma International Airport	SEA	Seattle	WA	
+11	Miami International Airport	MIA	Miami	FL	
+12	George Bush Intercontinental Airport	IAH	Houston	TX	
+13	John F. Kennedy International Airport	JFK	New York City	NY	
+14	Fort Lauderdale–Hollywood International Airport	FLL	Fort Lauderdale	FL	
+15	San Francisco International Airport	SFO	San Francisco	CA	
